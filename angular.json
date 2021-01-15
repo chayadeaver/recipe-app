@@ -121,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "recipe-app"
+  "defaultProject": "recipe-app",
+  "cli": {
+    "analytics": false
+  }
 }
